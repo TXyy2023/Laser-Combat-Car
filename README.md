@@ -18,8 +18,8 @@
 6. 激光持续照射目标 **2 秒**  
 7. Maixcam Pro 触发喇叭与 LED → 判定胜利
 
-/maix-first_try-v1.0.3下是Maixcam pro端代码
-/run_code是8266端代码
+`/maix-first_try-v1.0.3`下是Maixcam pro端代码
+`/run_code`是8266端代码
 ## 复刻流程
 
 ### Esp32 8266（Arduino端）
@@ -95,10 +95,10 @@
 
 
 
-### pid图像识别
+### pid图像识别==>[URL](src/db1c7a538065c3b661300650d142a9ff.mov)
 <video controls src="src/db1c7a538065c3b661300650d142a9ff.mov" title="Title" width="400" ></video>
 
-### 小车运行效果（早期）
+### 小车运行效果（早期）==>[URL](src/IMG_9369.MOV)
 <video controls src="src/IMG_9369.MOV" title="Title" width="400" ></video>
 
 ### 最终小车形态
