@@ -1,0 +1,39 @@
+{
+    "pin":{
+        "leser_pin":2,
+        "tx_pin":14,
+        "rx_pin":15,
+        "camera_sg":23
+    },
+
+    "search_mode":true,
+    "search_wait_time":100,
+
+
+
+    "pot1_search_val":1500,
+    "port1_max_value":1550,
+    "port1_min_value":1000,
+    "port1_init_value":1520,
+    "port1_search_max":1500,
+    "port1_search_min":1400,
+    "port1_multipie":1,
+    "port1_pid":[0.8, 0.02, 0.08, 0],
+    "port1_search_speed":5,
+
+    "port0_max_value":2500,
+    "port0_min_value":500,
+    "port0_init_value":1900,
+    "port0_search_max":2000,
+    "port0_search_min":1000,
+    "port0_multipie":1,
+    "port0_pid_old":[0.3, 0.0001, 0.0018, 0],
+    "port0_pid_old1":[2.45, 0.2, 0.2, 0.2],
+    "port0_pid":[2.45, 0.175, 0.2, 0.6],
+    "port0_search_speed":10,
+
+
+    "obj_dect_err":0.1,
+    "obj_dect_time":3000
+
+}

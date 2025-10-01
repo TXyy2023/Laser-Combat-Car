@@ -1,0 +1,20 @@
+id: first_try
+name: first_try
+name[zh]: 人脸追踪
+version: 1.0.3
+author: Sipeed Ltd
+icon: ''
+desc: first_try
+desc[zh]: 使用 MaixCAM 和云台进行人脸跟踪。
+files:
+  - assets/exit_touch.jpg
+  - assets/exit.jpg
+  - assets/face_tracking.png
+  - face_tracking/servos.py
+  - app.yaml
+  - buzzer.py
+  - call_back.py
+  - config.json
+  - main.py
+  - README.md
+  - sg_uart.py
